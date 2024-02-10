@@ -10,4 +10,6 @@ print("python is not " + x)
 
 y = "Hi git"
 
+sam = "try to see new things"
+
 print(y)
